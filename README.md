@@ -39,3 +39,9 @@ Especificos:
 .Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella los diferentes datos de voltaje.
 
 .Explicar a travez de las leyes de Krichhoff la manera de obtener los diferentes datos de manera manual sin utilizar alguna herramienta de medicion.
+
+# MARCO TEORICO:
+
+
+
+
