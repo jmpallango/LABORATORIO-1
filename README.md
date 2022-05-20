@@ -42,6 +42,12 @@ Especificos:
 
 # MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/105695077/169542153-5e4ec6a8-e1d0-41e5-8ff0-bc542591c608.png)
+![image](https://user-images.githubusercontent.com/105695077/169542218-000cdc98-4093-428b-bd3a-9892f95416af.png)
+![image](https://user-images.githubusercontent.com/105695077/169542271-1c8c8d01-e1ac-47dc-8632-08fcd5b37221.png)
+![image](https://user-images.githubusercontent.com/105695077/169542334-a182da8a-6075-49eb-9ff0-ed42aa3db497.png)
+![image](https://user-images.githubusercontent.com/105695077/169542405-23caf567-a515-4019-97ff-2fed4e43f97c.png)
+
 
 
 
