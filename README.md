@@ -74,6 +74,8 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:
 
+![image](https://user-images.githubusercontent.com/105695077/169546009-7f10d428-5ead-4505-9d98-ec17b5131a68.png)
+
 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje consigno negativo. Anote los resultados en la tabla:
 
 Verificación de la LVK:
