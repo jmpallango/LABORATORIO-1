@@ -100,8 +100,9 @@ Calcular errores de las mediciones y comentar los resultados:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
+Carlos, J. (22 de Abril de 2022). MecatrónicaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
-
+Catillo, M. (15 de Mayo de 2019). Electrónica Unicrom. Obtenido de https://unicrom.com/ley-de-voltajes-de-kirchhoff/
 
 Rubrica:
 
