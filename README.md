@@ -106,6 +106,8 @@ En conclusión las medidas entre lo teórico y lo medido existe una gran diferen
 
 # VIDEO
 
+https://www.youtube.com/watch?v=TxSEMkU5CS8
+
 # CONCLUSIONES
 
 Para realizar una buena practica y lograr medir con exactitud los diferentes valores como son la resistencia, el voltaje, etc. se requiere practica
