@@ -92,6 +92,9 @@ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 
 Calcular errores de las mediciones y comentar los resultados:
 
+R1= 35.52%	R2= -186.48%	R3= 163.48%	R4= 237.64	R5=-35.63
+En conclusión las medidas entre lo teórico y lo medido existe una gran diferencia por lo cual esto nos da resultados de mas del 100% hasta sobrepasar los 200%
+
 # VIDEO
 
 # CONCLUSIONES
