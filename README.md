@@ -68,6 +68,8 @@ Arme el circuito que se muestra en la figura:
 
 ![image](https://user-images.githubusercontent.com/105695077/169543916-76217125-4abb-4261-9b70-6c47a75936ef.png)
 
+![image](https://user-images.githubusercontent.com/105695077/169545707-2412b58a-59c4-4881-85ef-64d3f564cedb.png)
+
 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla:
 
 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:
