@@ -86,6 +86,8 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 
 Verificación de la LCK:
 
+![image](https://user-images.githubusercontent.com/105695077/169547001-608fe0fd-c7be-4c7a-8f2b-2b294dffde84.png)
+
 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto:
 
 Calcular errores de las mediciones y comentar los resultados:
