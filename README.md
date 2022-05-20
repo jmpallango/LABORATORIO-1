@@ -92,4 +92,5 @@ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 
 Calcular errores de las mediciones y comentar los resultados:
 
+#VIDEO
 
