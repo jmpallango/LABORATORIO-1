@@ -92,5 +92,15 @@ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 
 Calcular errores de las mediciones y comentar los resultados:
 
-#VIDEO
+# VIDEO
+
+# CONCLUSIONES
+
+# BiBLIOGRAFÍA
+
+
+Rubrica:
+
+![image](https://user-images.githubusercontent.com/105695077/169549221-6a6d7d81-301f-4ae6-adad-f0a59a65b83e.png)
+
 
