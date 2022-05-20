@@ -64,9 +64,23 @@ b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayec
 
 PROCEDIMIENTO:
 
-Arme el circuito que se muestra en la figura
+Arme el circuito que se muestra en la figura:
 
 ![image](https://user-images.githubusercontent.com/105695077/169543916-76217125-4abb-4261-9b70-6c47a75936ef.png)
 
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla:
+
+Resultados obtenidos de voltaje y corriente, en cada elemento del circuito:
+
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje consigno negativo. Anote los resultados en la tabla:
+
+Verificación de la LVK:
+
+
+Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla:
+
+Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto:
+
+Calcular errores de las mediciones y comentar los resultados:
 
 
