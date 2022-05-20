@@ -98,6 +98,10 @@ Calcular errores de las mediciones y comentar los resultados:
 
 # BiBLIOGRAFÍA
 
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+
+
 
 Rubrica:
 
