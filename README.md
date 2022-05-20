@@ -108,6 +108,9 @@ En conclusión las medidas entre lo teórico y lo medido existe una gran diferen
 
 # CONCLUSIONES
 
+para realizar una buena practica y lograr medir con exactitud los diferentes valores como son la resistencia, el voltaje, etc. se requiere practica
+y constante repeticion ya que al inicio puede ser confuso pero no imposible
+
 # BiBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
