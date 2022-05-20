@@ -30,4 +30,9 @@ Sangolquí- Ecuador
 VIERNES 20 de mayo de 2022 
 
 # OBJETIVOS:
+
+General:
 Demostrar y explicar la manera correcta de armar un circuito empleando la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.  
+
+Especifico:
+
