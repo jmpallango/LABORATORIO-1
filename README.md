@@ -110,8 +110,9 @@ https://www.youtube.com/watch?v=TxSEMkU5CS8
 
 # CONCLUSIONES
 
-Para realizar una buena practica y lograr medir con exactitud los diferentes valores como son la resistencia, el voltaje, etc. se requiere practica
-y constante repeticion ya que al inicio puede ser confuso pero no imposible
+Para realizar una buena practica y lograr medir con exactitud los diferentes valores como son la resistencia, el voltaje, etc. 
+
+Se requiere practica y constante repeticion ya que al inicio puede ser confuso pero no imposible
 
 # BiBLIOGRAFÍA
 
