@@ -80,6 +80,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 
 Verificación de la LVK:
 
+![image](https://user-images.githubusercontent.com/105695077/169546394-08aa81e4-1977-4f56-abba-06751448c8c9.png)
 
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla:
 
