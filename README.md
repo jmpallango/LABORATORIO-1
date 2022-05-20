@@ -52,7 +52,7 @@ Especificos:
 ![image](https://user-images.githubusercontent.com/105695077/169542717-26426437-2e49-4c7b-abab-bb745f343480.png)
 ![image](https://user-images.githubusercontent.com/105695077/169542797-8e40e7ff-c283-428c-832d-66075b8c8b83.png)
 
-#EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctricos son las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes de Kirchhoff se enuncian a continuación:
 
