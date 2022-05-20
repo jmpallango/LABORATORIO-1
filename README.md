@@ -32,7 +32,9 @@ VIERNES 20 de mayo de 2022
 # OBJETIVOS:
 
 General:
-Demostrar y explicar la manera correcta de armar un circuito empleando la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.  
+Demostrar y explicar la manera correcta de armar un circuito empleando la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes para obtener sus datos.  
 
-Especifico:
+Especificos:
 
+.Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella los diferentes datos de voltaje.
+.Explicar a travez de las leyes de Krichhoff la manera de obtener los diferentes datos de manera manual sin utilizar alguna herramienta de medicion.
