@@ -51,3 +51,22 @@ Especificos:
 ![image](https://user-images.githubusercontent.com/105695077/169542657-44cce25c-460a-4668-8990-53b9429dc7d5.png)
 ![image](https://user-images.githubusercontent.com/105695077/169542717-26426437-2e49-4c7b-abab-bb745f343480.png)
 ![image](https://user-images.githubusercontent.com/105695077/169542797-8e40e7ff-c283-428c-832d-66075b8c8b83.png)
+
+#EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctricos son las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes de Kirchhoff se enuncian a continuación:
+
+a) Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo.
+
+b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma.
+
+![image](https://user-images.githubusercontent.com/105695077/169543670-bffdf488-e9fd-40ed-8859-0c45084c8b6a.png)
+
+PROCEDIMIENTO:
+
+Arme el circuito que se muestra en la figura
+
+![image](https://user-images.githubusercontent.com/105695077/169543916-76217125-4abb-4261-9b70-6c47a75936ef.png)
+
+
+
