@@ -84,6 +84,8 @@ Verificación de la LVK:
 
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla:
 
+Verificación de la LCK:
+
 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto:
 
 Calcular errores de las mediciones y comentar los resultados:
